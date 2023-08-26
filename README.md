@@ -1,6 +1,6 @@
 # Santander Bootcamp 2023 - Ciência de Dados com Python
 
-Curso intensivo da Ciência de Dados usando __Python__ ministrado pela [DIO](https://web.dio.me/) em parceria com a __Santander__. 
+Curso intensivo de Ciência de Dados usando __Python__, ministrado pela [DIO](https://web.dio.me/) em parceria com a __Santander__. 
 Este repositório foi criado para armazenar anotações, codigos-exemplos e códigos de desafio do Bootcamp. 
 
 __Módulos do Curso:__ 
