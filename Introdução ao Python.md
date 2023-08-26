@@ -1,4 +1,4 @@
-
+# Introdução ao Python
 `dir()` - comando que lista os métodos de um objeto ou o escopo atual do programa
 
 `help(print)` - comando que mostra os textos de ajuda sobre módulo, função, classe, método ou variável. 
