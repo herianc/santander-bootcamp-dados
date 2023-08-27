@@ -154,7 +154,7 @@ numero # {1,2,3,1,2,4,5,5,6,7,8,9}
 
 ### Dicionários 
 
-Conjunto não ordenado de pares chave:valor, onde as chaves são únicas em uma dada instância do dicionário. 
+Conjunto não ordenado de pares __chave:valor__, onde as chaves são únicas em uma dada instância do dicionário. 
 
 Também é possível colocar dicionários aninhados 
 
@@ -180,7 +180,7 @@ Também é possível colocar dicionários aninhados
 
 ### Funções 
 
-Função é um bloco de código identificado por um nome e pode receber uma lista de parâmetros, esses parâmetros podem ou não ter valores padrões.  Programar baseado em funções, __é o mesmo que dizer que estamos programando de maneira estruturada.__
+Função é um bloco de código identificado por um nome e pode receber uma lista de parâmetros, esses parâmetros podem ou não ter valores padrões. Programar baseado em funções, __é o mesmo que dizer que estamos programando de maneira estruturada.__
 
 Funções em python podem retornar mais de um valor, diferente de outras linguagens. 
 
