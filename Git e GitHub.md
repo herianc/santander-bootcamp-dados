@@ -9,6 +9,7 @@ __O que é versionamento de código?__
 - Organização, controle e segurança. 
 
 **Tipos de Sistemas de Controle de Versão (VCS**):
+
 - VCS Centralizado: Um servidor centralizado que contem o banco de versões do código
 
 - VCS Distribuído: Neste tipo de VCS o banco de versões é duplicado para cada membro da equipe que trabalha no mesmo código, evitando perca por corrompimento do servidor central. 
@@ -16,9 +17,11 @@ __O que é versionamento de código?__
 Clona o repositório completo, o que inclui o histórico de versões. Cada clone é como um backup; Possibilita um fluxo de trabalho flexível e também trabalhar sem conexão à rede. 
 
 __O que é GIT?__
+
 É um DVCS gratuito e Open Source, usa o sistema de ramificações (branching) e fusões (merging) eficientes, além de ser leve e rápido.
 
-__Fluxo Básico do GIT__ 
+__Fluxo Básico do GIT__
+
 `git clone` - Clona um repositório Git existente para um novo diretório (pasta) local. 
 
 `git commit` - Grava alterações no repositório.
